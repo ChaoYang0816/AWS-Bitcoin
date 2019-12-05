@@ -1,6 +1,5 @@
 import boto3
 import re
-import configparser
 
 userdata = """
 #!/bin/bash
